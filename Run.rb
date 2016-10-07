@@ -8,8 +8,9 @@ Author: Xavier Yorks
 
 #Todo
 =begin
+Make game Textures
 Make textures for game
-Prcedural generation
+Procedural generation
 Enemys
 Wepons
 Inventory style
